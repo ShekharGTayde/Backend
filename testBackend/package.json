@@ -1,0 +1,15 @@
+{
+  "name": "testbackend",
+  "version": "1.0.0",
+  "description": "test backend project for deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shekhar tayde",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",  
+    "express": "^4.21.2"  
+  }
+}
